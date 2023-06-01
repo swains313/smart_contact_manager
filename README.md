@@ -1,4 +1,6 @@
 # smart_contact_manager
+![Screenshot 2023-06-01 at 10 54 50 PM](https://github.com/swains313/smart_contact_manager/assets/68143654/c19a9129-c960-4627-b269-2992ea690d46)
+
 ![Screenshot 2023-06-01 at 10 54 57 PM](https://github.com/swains313/smart_contact_manager/assets/68143654/b594e389-c305-4a39-9414-bddfe279f4c8)
 
 ![Screenshot 2023-06-01 at 10 55 06 PM](https://github.com/swains313/smart_contact_manager/assets/68143654/db507323-375e-4428-b6a2-86df4c2830ed)
