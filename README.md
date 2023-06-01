@@ -10,4 +10,4 @@
 ![Screenshot 2023-06-01 at 10 59 09 PM](https://github.com/swains313/smart_contact_manager/assets/68143654/bf7f8037-9960-4ddd-a43e-ab5aff9f61e0)
 ![Screenshot 2023-06-01 at 10 59 21 PM](https://github.com/swains313/smart_contact_manager/assets/68143654/ea77929f-1e4b-49c2-ae74-cc8a73ce3ce2)
 ![Screenshot 2023-06-01 at 10 59 35 PM](https://github.com/swains313/smart_contact_manager/assets/68143654/03e238ec-e408-4854-9505-3c32cc7ef80f)
-![Screenshot 2023-06-01 at 12 36 55 PM](https://github.com/swains313/smart_contact_manager/assets/68143654/f11d1318-8813-48cc-94e3-61e0ba0494c5)
+
